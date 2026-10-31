@@ -3,8 +3,8 @@ class Specloop < Formula
 
   desc "Keep an iOS app's spec, code and tests in lockstep with your coding agent"
   homepage "https://github.com/KVTaniguchi/specloop"
-  url "https://github.com/KVTaniguchi/specloop/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "f24ba3420feda69b9e317bc1787f6e8e4afe7a0522460fab6b11e0e7daacbb93"
+  url "https://github.com/KVTaniguchi/specloop/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "e41aa997695bc30279db027ecd9dd7206e3b14fbaea3d464a8abe181e2bc6a7b"
   license "MIT"
 
   depends_on "python@3.12"
