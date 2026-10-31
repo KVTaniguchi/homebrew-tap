@@ -1,10 +1,10 @@
 class Specloop < Formula
   include Language::Python::Virtualenv
 
-  desc "Keep a spec, the code, and the tests in lockstep with your coding agent"
+  desc "Keep an iOS app's spec, code and tests in lockstep with your coding agent"
   homepage "https://github.com/KVTaniguchi/specloop"
-  url "https://github.com/KVTaniguchi/specloop/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "c7a70847ed2ff9f95329920683e2aef3d7b8edd3797ac1854e71fb6fb9d521e6"
+  url "https://github.com/KVTaniguchi/specloop/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "f24ba3420feda69b9e317bc1787f6e8e4afe7a0522460fab6b11e0e7daacbb93"
   license "MIT"
 
   depends_on "python@3.12"
