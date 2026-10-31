@@ -3,8 +3,8 @@ class Specloop < Formula
 
   desc "Keep a spec, the code, and the tests in lockstep with your coding agent"
   homepage "https://github.com/KVTaniguchi/specloop"
-  url "https://github.com/KVTaniguchi/specloop/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "e5f7491f61226b790e3feff523a0bfa50dd0e9bc169674f9a0366b7380114bee"
+  url "https://github.com/KVTaniguchi/specloop/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "c7a70847ed2ff9f95329920683e2aef3d7b8edd3797ac1854e71fb6fb9d521e6"
   license "MIT"
 
   depends_on "python@3.12"
